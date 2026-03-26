@@ -37,7 +37,23 @@ To get this agent running, you need the following Python libraries:
 | `deep-translator` | **Translates** the text into another language. |
 | `gTTS` | **Converts** the translated text into a voice file. |
 | `pygame` | **Plays** the voice file through your speakers. **(Audio Actuators)**|
+---
+## ⚙️ How to Set Up (Installation)?
+### 1. Download the project files**
+git clone https://github.com/your-username/your-repo-name.git
+cd your-repo-name
 
-### 🚀 Quick Install:
+### 2.Install Required Libraries:**
 ```bash
 pip install speechrecognition deep-translator gTTS pygame
+```
+
+## 🚦How to Use?
+1.  **Run the Script:** Execute the following command in your terminal: "AIML CAPSTONE PROJECT.py"
+2.  **Voice Input:** Wait for the "Listening..." prompt and speak your sentence clearly.
+3.  **Select Language:** Say the name of your target language (e.g., "Hindi" or "French") to hear the translation instantly🎬
+
+
+
+
+
