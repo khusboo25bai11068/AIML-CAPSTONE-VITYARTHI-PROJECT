@@ -4,7 +4,7 @@
 ---
 
 ## 📝 Project Overview
-This is an **Intelligent NLP Agent** designed for seamless, real-time voice-to-voice translation. By integrating advanced **Natural Language Processing (NLP)** techniques, the agent captures human speech, understands its semantic intent, and translates it into a target language with natural-sounding audio output.
+This is a Smart **NLP Agent** that listens to your voice and instantly speaks it back in another language. It is built to solve real-world communication gaps by using **Natural Language Processing (NLP)** and **Neural Machine Translation (NMT)** to understand the actual meaning of your words across 14 global and regional languages.
 
 ---
 
