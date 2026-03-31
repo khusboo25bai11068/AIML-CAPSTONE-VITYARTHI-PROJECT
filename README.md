@@ -43,7 +43,7 @@ To get this agent running, you need the following Python libraries:
 Open your terminal and run the following commands:
 
 ```bash
-git clone [https://github.com/khusboo25bai11068/AIML-CAPSTONE-VITYARTHI-PROJECT](https://github.com/khusboo25bai11068/AIML-CAPSTONE-VITYARTHI-PROJECT)
+git clone https://github.com/khusboo25bai11068/AIML-CAPSTONE-VITYARTHI-PROJECT
 cd AIML-CAPSTONE-VITYARTHI-PROJECT
 ```
 
