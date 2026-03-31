@@ -40,6 +40,8 @@ To get this agent running, you need the following Python libraries:
 ---
 ## ⚙️ How to Set Up (Installation)?
 ### 1. Clone the Repository
+Open your terminal and run the following commands:
+
 ```bash
 git clone [https://github.com/khusboo25bai11068/AIML-CAPSTONE-VITYARTHI-PROJECT](https://github.com/khusboo25bai11068/AIML-CAPSTONE-VITYARTHI-PROJECT)
 cd AIML-CAPSTONE-VITYARTHI-PROJECT
