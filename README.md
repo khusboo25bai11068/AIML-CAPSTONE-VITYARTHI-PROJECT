@@ -39,11 +39,11 @@ To get this agent running, you need the following Python libraries:
 | `pygame` | **Plays** the voice file through your speakers. **(Audio Actuators)**|
 ---
 ## ⚙️ How to Set Up (Installation)?
-### 1. Download the project files**
-git clone https://github.com/your-username/your-repo-name.git
+### 1. Download the project files
+git clone https://github.com/khusboo25bai11068/AIML-CAPSTONE-VITYARTHI-PROJECT
 cd your-repo-name
 
-### 2.Install Required Libraries:**
+### 2.Install Required Libraries:
 ```bash
 pip install speechrecognition deep-translator gTTS pygame
 ```
