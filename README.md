@@ -39,13 +39,22 @@ To get this agent running, you need the following Python libraries:
 | `pygame` | **Plays** the voice file through your speakers. **(Audio Actuators)**|
 ---
 ## ⚙️ How to Set Up (Installation)?
-### 1. Download the project files
-git clone https://github.com/khusboo25bai11068/AIML-CAPSTONE-VITYARTHI-PROJECT
-cd your-repo-name
+### 1. Clone the Repository
+```bash
+git clone [https://github.com/khusboo25bai11068/AIML-CAPSTONE-VITYARTHI-PROJECT](https://github.com/khusboo25bai11068/AIML-CAPSTONE-VITYARTHI-PROJECT)
+cd AIML-CAPSTONE-VITYARTHI-PROJECT
+```
 
 ### 2.Install Required Libraries:
 ```bash
 pip install speechrecognition deep-translator gTTS pygame
+```
+
+### 3. Run the Application
+Ensure your microphone is connected and your internet is active (for the NMT Transformers). Then, execute the main script using the following command:
+
+```bash
+python "AIML CAPSTONE PROJECT.py"
 ```
 
 ## 🚦How to Use?
